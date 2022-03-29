@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264809371196",
+    "project_id": "flutter-login-598cd",
+    "storage_bucket": "flutter-login-598cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264809371196:android:40fe8ae3da1cd4a3679539",
+        "android_client_info": {
+          "package_name": "com.example.rent_car_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264809371196-donr81e403ko33ohvddosas6ajssc4v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6ur_BP-rnJ5bQP6FNMRM24_FluiY1rz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264809371196-donr81e403ko33ohvddosas6ajssc4v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
